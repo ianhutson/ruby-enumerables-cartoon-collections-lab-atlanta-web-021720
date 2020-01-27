@@ -19,7 +19,7 @@ def summon_captain_planet(summon)
 end
 
 def long_planeteer_calls(summon)
-  # Your code here
+  summon.any? { |call| call.length > 4 }
 end
 
 def find_the_cheese# code an argument here
