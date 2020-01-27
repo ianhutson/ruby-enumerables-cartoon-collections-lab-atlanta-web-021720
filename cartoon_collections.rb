@@ -4,7 +4,7 @@ dwarves = %w[
   Bashful
   Grumpy
   Sneezy
-  SLeepy
+  Sleepy
   Happy]
 
 def roll_call_dwarves# code an argument here
